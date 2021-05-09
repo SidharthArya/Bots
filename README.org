@@ -1,0 +1,19 @@
+#+TITLE: Bots
+#+AUTHOR: Sidharth Arya
+
+* COVID19 Health Tracking Bot
+  Cannot release publicly right now since it is too specific to me.
+
+* COVID19 Vaccine Finder
+  I am not sure whether to release this publicly or not, yet. Since, to me, it seems like, all such bots are only causing more educated and rich people to get vaccinated quicker, when we need the poor people to get vaccinated as early too. Manually finding vaccines seems to be less prone to such biases.
+  Also, there are many such trackers available.
+  + https://m.paytm.me/vaccineslotfinder
+  Feel free to open an issue if you disagree. Let me know if you need to find vaccines urgently, in any case.
+  
+* Crypto Tracking Bot
+  Publicly Available, go through it's repository if you need to use. Telegram Based.
+* Organizing Bot
+  Publicly Available, go through it's repository if you need to use. Telegram Based.
+  Disclaimer: Very specific to my personal way of organizing things. Feel free to request any changes or scalability.
+* Disclaimer
+  The source code is available, as is. Please host your own bot with your API keys, rather than requesting access to mine.

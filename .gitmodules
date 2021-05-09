@@ -1,0 +1,12 @@
+[submodule "Covid19-Vaccine-Finder"]
+	path = Covid19-Vaccine-Finder
+	url = git@github.com:SidharthArya/Covid19-Vaccine-Finder.git
+[submodule "Covid19-health-tracking"]
+	path = Covid19-health-tracking
+	url = git@github.com:SidharthArya/Covid19-health-tracking.git
+[submodule "Organizing-bot"]
+	path = Organizing-bot
+	url = git@github.com:SidharthArya/Organizing-bot.git
+[submodule "Crypto-tracking-bot"]
+	path = Crypto-tracking-bot
+	url = git@github.com:SidharthArya/Crypto-tracking-bot.git
