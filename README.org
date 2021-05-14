@@ -14,4 +14,5 @@
   Publicly Available, go through it's repository if you need to use. Telegram Based. Mostly for org mode users.
   Disclaimer: Very specific to my personal way of organizing things. Feel free to request any changes or scalability.
 * Disclaimer
-  The source code is available, as is. Please host your own bot with your API keys, rather than requesting access to mine.
+  + The source code is available, as is. Please host your own bot with your API keys, rather than requesting access to mine.
+  + I have added the required telegram id's for the people i wish to make the bot accesible to, in separate files. These files are not made available.

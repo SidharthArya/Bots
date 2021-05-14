@@ -10,3 +10,6 @@
 [submodule "Crypto-tracking-bot"]
 	path = Crypto-tracking-bot
 	url = git@github.com:SidharthArya/Crypto-tracking-bot.git
+[submodule "Algo-Stock-Trading"]
+	path = Algo-Stock-Trading
+	url = https://github.com/SidharthArya/Algo-Stock-Trading
